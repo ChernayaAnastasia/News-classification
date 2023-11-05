@@ -3,7 +3,7 @@ Text multiclass classification project. Predicting news topics.
 
 ## Data
 The data for the project was scraped from the news website ria.ru and parsed independetly. 
-The final dataframe contains 23 189 rows (each row is a news article) covering 7 topics: 
+The final dataframe contains 23 985 rows (each row is a news article) covering 7 topics: 
 * science
 * society
 * incidents
