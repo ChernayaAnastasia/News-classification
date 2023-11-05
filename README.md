@@ -29,7 +29,7 @@ For each news we have these features:
 
 The target variable is **topic**
 
-The dataset corpus includes **3 847 612** unlemmatized tokens stopwords excluded. 
+The dataset corpus includes **3 971 976** unlemmatized tokens stopwords excluded. 
 
 The topics distribution is presented below:
 
