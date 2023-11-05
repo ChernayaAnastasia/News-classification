@@ -47,7 +47,7 @@ Under development
 ## Links
 The parser file - [open in Colab](https://drive.google.com/file/d/1Qu79WtTEPSRi6wqVoIlGDHW4uTCHhBaw/view?usp=sharing)
 
-The EDA file - [open in Colab](https://drive.google.com/file/d/12eAvdYh6KLpmcLzMtmHwMlgNTrs4ipBm/view?usp=sharing)
+The EDA file - [open in Colab](https://drive.google.com/file/d/1nIm2uy3QKQ1cx9S_7z5cA8xJsaZgbBTd/view?usp=sharing) 
 
 ## License
 This project is licensed under the MIT license. For more information, see the [LICENSE](https://github.com/ChernayaAnastasia/News-classification/blob/main/LICENSE) file.
