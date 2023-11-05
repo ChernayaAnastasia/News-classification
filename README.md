@@ -20,16 +20,16 @@ For each news we have these features:
 | title              | string                 |
 | content         | string                 |
 | datetime     | datetime |
-| year | datetime|
-|month | datetime|
-|weekday | datetime|
+| year | integer|
+|month | integer|
+|weekday | string|
 |len_title| integer|
 |len_content| integer
 |topic | string
 
 The target variable is **topic**
 
-The dataset corpus includes 5 160 912 unlemmatized tokens. 
+The dataset corpus includes **3 847 612** unlemmatized tokens stopwords excluded. 
 
 The topics distribution is presented below:
 
