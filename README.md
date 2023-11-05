@@ -47,7 +47,7 @@ Under development
 ## Links
 The parser file - [open in Colab](https://drive.google.com/file/d/1Qu79WtTEPSRi6wqVoIlGDHW4uTCHhBaw/view?usp=sharing)
 
-The EDA file - [open in Colab](https://drive.google.com/file/d/1lwFNIF8KFC0yaGm68j-i8-wCeSr0m_ZR/view?usp=sharing), [open in nbviewer](https://nbviewer.org/github/ChernayaAnastasia/News-classification/blob/main/eda_ria_news.ipynb)
+The EDA file - [open in Colab](https://drive.google.com/file/d/1ssvoLTkO74KucYgIZt9bsBe6SJUmLws5/view?usp=sharing), [open in nbviewer](https://nbviewer.org/github/ChernayaAnastasia/News-classification/blob/main/eda_ria_news.ipynb)
 
 ## License
 This project is licensed under the MIT license. For more information, see the [LICENSE](https://github.com/ChernayaAnastasia/News-classification/blob/main/LICENSE) file.
