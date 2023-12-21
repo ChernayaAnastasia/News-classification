@@ -1,0 +1,4 @@
+model,vectorizer,f1,predicting time
+LogisticRegression,Tfidf,0.881,2.6484363079071045
+LogisticRegression,Word2Vec with Mean Pooling,0.859,3.920810222625733
+CatBoostClassifier,NaiveBayes built-in CatBoostClassifier,0.875,0.8379414081573486
