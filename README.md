@@ -36,6 +36,7 @@ The Topics Distribution is presented below:
 ![](https://github.com/ChernayaAnastasia/Screenshots/blob/master/topic_distribution.png)
 
 The Text Statistics:
+
 ![](https://github.com/ChernayaAnastasia/Screenshots/blob/master/text_statistics.png)
 
 ## Models
