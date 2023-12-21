@@ -29,13 +29,14 @@ For each news we have these features:
 |month | integer|
 |weekday | string|
 
-The target variable is **topic**. 
+The target variable is **topic**.  
 
-The dataset corpus includes **3 971 976** unlemmatized tokens stopwords excluded. 
-
-The topics distribution is presented below:
+The Topics Distribution is presented below:
 
 ![](https://github.com/ChernayaAnastasia/Screenshots/blob/master/topic_distribution.png)
+
+The Text Statistics:
+![](https://github.com/ChernayaAnastasia/Screenshots/blob/master/text_statistics.png)
 
 ## Models
 Logistic Regression with Tfidf Vectorizer (lemmatization + deleting stopwords)
