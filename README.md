@@ -35,7 +35,7 @@ The dataset corpus includes **3 971 976** unlemmatized tokens stopwords excluded
 
 The topics distribution is presented below:
 
-![](https://github.com/ChernayaAnastasia/Screenshots/blob/master/topics_distribution.png)
+![](https://github.com/ChernayaAnastasia/Screenshots/blob/master/topic_distribution.png)
 
 ## Models
 Logistic Regression with Tfidf Vectorizer (lemmatization + deleting stopwords)
