@@ -1,5 +1,5 @@
 # Russian News classification
-Multiclass classification project. Predicting news topics.
+Multiclass text classification project. Predicting news topics.
 
 ## Data
 The data for the project was collected from the Russian news website ria.ru using Selenium and Beautiful Soup libraries. 
