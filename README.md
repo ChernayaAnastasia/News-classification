@@ -72,7 +72,9 @@ The EDA file - [open in Colab](https://drive.google.com/file/d/10kGEXDzXS6YmF78s
 [open in nbviewer](https://nbviewer.org/github/ChernayaAnastasia/News-classification/blob/main/eda.ipynb)
 
 News dataset - [open in Colab](https://drive.google.com/file/d/1hnxGMy-1Wv7miB5ONd4--aErzVM_yeZF/view?usp=sharing)
+
 [train_data](https://drive.google.com/file/d/12xHBe5OC8cgRyvwgw5it3is2ixqiHjou/view?usp=sharing)
+
 [test_data](https://drive.google.com/file/d/1-4OASH9--W4y7QpmdTR6y5wkHqPF0rDE/view?usp=sharing)
 
 ## License
