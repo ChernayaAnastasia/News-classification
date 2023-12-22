@@ -51,7 +51,7 @@ Logistic Regression with Tfidf Vectorizer (lemmatization + deleting stopwords)
 
 Catboost Classifier (lemmatized corpus, built-in Catboost text featurizing)
 
-Bert Transformer Classifier (rubert-tiny2)
+BERT Transformer Classifier (rubert-tiny2)
 
 ## Results
 | Model                | Vectorizer                         | F1    | Predicting Time |
