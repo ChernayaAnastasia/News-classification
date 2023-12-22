@@ -2,7 +2,7 @@
 Multiclass classification project. Predicting news topics.
 
 ## Data
-The data for the project was scraped from the news website ria.ru and parsed independetly. 
+The data for the project was collected from the Russian news website ria.ru using Selenium and Beautiful Soup libraries. 
 The final dataframe contains 42 210 rows (each row is a news article) covering 9 topics (9 classes): 
 * science
 * society
