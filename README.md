@@ -41,11 +41,13 @@ The Text Statistics:
 
 ## Models
 Logistic Regression with Tfidf Vectorizer (lemmatization + deleting stopwords)
+
 Catboost Classifier (lemmatized corpus, built-in Catboost text featurizing)
+
 Bert Transformer Classifier (rubert-tiny2)
 
 ## Results
-
+https://github.com/ChernayaAnastasia/Screenshots/blob/master/final_results.png
 
 ## Author
 **Chernaya Anastasia** - [Telegram](https://t.me/ChernayaAnastasia), [GitHub](https://github.com/ChernayaAnastasia)
