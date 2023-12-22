@@ -47,7 +47,13 @@ Catboost Classifier (lemmatized corpus, built-in Catboost text featurizing)
 Bert Transformer Classifier (rubert-tiny2)
 
 ## Results
-https://github.com/ChernayaAnastasia/Screenshots/blob/master/final_results.png
+| Model                | Vectorizer                         | F1    | Predicting Time |
+|----------------------|-----------------------------------|-------|------------------|
+| LogisticRegression               | TFIDF                       | 0.881  | 2.648436           |
+| LogisticRegression               | Word2Vec with Mean Pooling                       | 0.859	  | 3.920810            |
+| CatBoostClassifier             |  CatBoostClassifier with lemmatized texts                     | 0.875	  | 0.837941            |
+| BERT Classifier                 | rubert-tiny2                               | 0.876  | 17.861081             |
+
 
 ## Author
 **Chernaya Anastasia** - [Telegram](https://t.me/ChernayaAnastasia), [GitHub](https://github.com/ChernayaAnastasia)
