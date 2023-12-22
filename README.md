@@ -67,6 +67,8 @@ BERT Transformer Classifier (rubert-tiny2)
 **Chernaya Anastasia** - [Telegram](https://t.me/ChernayaAnastasia), [GitHub](https://github.com/ChernayaAnastasia)
 
 ## Links
+[Report](https://drive.google.com/file/d/1zNVGdXfoE6n4Gof_MTBAdp-miw80idIV/view?usp=sharing) 
+
 The parser file - [open in Colab](https://drive.google.com/file/d/1vu0p4MDumwg-JnpwtDx9oDRUmPvKfQo5/view?usp=sharing)
 
 The EDA file - [open in Colab](https://drive.google.com/file/d/10kGEXDzXS6YmF78sTrO28mIrXgWUwGz_/view?usp=sharing), 
