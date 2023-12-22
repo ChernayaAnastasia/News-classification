@@ -43,8 +43,8 @@ The Text Statistics:
 | Number of Docs in the Corpus               | 33 768                       | 8 442 | 
 | Number of Tokens               | 7 762 439                       | 1 915 384	  | 
 | Size of Vocabulary             |  273 386	                     |  138 162           |
-| Number of lemmas                | 52 55 431                             | 1 296 314  |
-| Size of lemmatized vocabulary                | 112 078	                             | 57 404  | 
+| Number of Lemmas                | 52 55 431                             | 1 296 314  |
+| Size of Lemmatized Vocabulary                | 112 078	                             | 57 404  | 
 
 ## Models
 Logistic Regression with Tfidf Vectorizer (lemmatization + deleting stopwords)
