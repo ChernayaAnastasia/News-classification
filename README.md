@@ -35,7 +35,7 @@ The Topics Distribution is presented below:
 
 ![](https://github.com/ChernayaAnastasia/Screenshots/blob/master/topic_distribution.png)
 
-The Text Statistics:
+## The Text Statistics:
 
 
 |                 | Train                         | Test    |  
@@ -54,6 +54,7 @@ Catboost Classifier (lemmatized corpus, built-in Catboost text featurizing)
 BERT Transformer Classifier (rubert-tiny2)
 
 ## Results
+
 | Model                | Vectorizer                         | F1    | Predicting Time |
 |----------------------|-----------------------------------|-------|------------------|
 | LogisticRegression               | TFIDF                       | 0.881  | 2.648436           |
