@@ -1,4 +1,4 @@
-# Russian News classification
+# Russian News Classification
 Multiclass text classification project. Predicting news topics.
 
 ## Data
